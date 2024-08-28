@@ -7,6 +7,8 @@ public class app {
     public static void main(String[] args) {
         JFrame gamej = new GameJFrame();
 
-        JFrame loginj = new LoginJFrame();
+        //JFrame loginj = new LoginJFrame();
+
+        //JFrame registerj = new RegisterJFrame();
     }
 }
